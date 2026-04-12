@@ -4,7 +4,8 @@ Batch processing tool for CSV and Excel files. Clean, sort, reorder, and combine
 # CSV / Excel Batch Processor
 
 A simple tool to batch process CSV and Excel files.
-<img width="1260" height="647" alt="sample2" src="https://github.com/user-attachments/assets/f5bdec2b-c488-43c6-8fa5-5c9d9049e5f2" /><img width="600" height="600" alt="batch2" src="https://github.com/user-attachments/assets/824b507c-44df-4061-b89a-a9978864b652" />
+<img width="1222" height="630" alt="batch" src="https://github.com/user-attachments/assets/9472715a-5853-4a3a-80c5-70f089161224" />
+<img width="600" height="600" alt="batch2" src="https://github.com/user-attachments/assets/824b507c-44df-4061-b89a-a9978864b652" />
 
 
 ## Features
